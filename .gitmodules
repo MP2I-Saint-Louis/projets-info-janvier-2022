@@ -1,0 +1,15 @@
+[submodule "fusetim-raymarcher"]
+	path = fusetim-raymarcher
+	url = git@github.com:fusetim/mp2i-ocaml-raymarcher.git
+[submodule "i2pm-gnizamedoc"]
+	path = i2pm-gnizamedoc
+	url = https://github.com/slivering/i2pm-gnizamedoc.git
+[submodule "cut-the-rope"]
+	path = cut-the-rope
+	url = https://github.com/Adem-hub/ProjetOcaml
+[submodule "agar.ml"]
+	path = agar.ml
+	url = https://github.com/e1078/agar.ml
+[submodule "ocaml-rtx"]
+	path = ocaml-rtx
+	url = https://github.com/mdb0/ocaml_rtx

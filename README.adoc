@@ -1,0 +1,21 @@
+= Projets d'Informatique - Janvier 2022
+MP2I Saint-Louis 2021-2022
+
+[abstract]
+Pour 3ème DM d'Informatique, nous avions à développer un projet seul ou en duo utilisant une interface graphique,
+en utilisant pour cela la bibliothèque Graphics de OCaml. Autrement, le projet était entièrement libre.
+
+== Sommaire des projets
+
+* [Agar.ml](./agar.ml) par Yohan & Emile
+* [Cut the Rope](./cut-the-rope) par Adem & Thomas C.
+* [i2pm gnizamedoc](./i2pm-gnizamedoc) par Linh Vu
+* [OCaml RayMarcher](./fusetim-raymarcher) par Timothée B
+* [OCaml RTX](./ocaml-rtx) par Martin DB
+* [The World Hardest Game](./the-world-hardest-game) par Nicolas S. & Nathan
+
+
+== Licences
+
+Attention, ce repo n'est sous aucune licence globale, la propriété intellectuelle de chacun des auteurs doit donc être respectée.
+Sauf mention contraire pour un projet particulier, vous ne disposez d'aucune licence sur les codes de ce dépot git.

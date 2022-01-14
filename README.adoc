@@ -7,11 +7,11 @@ en utilisant pour cela la bibliothèque Graphics de OCaml. Autrement, le projet 
 
 == Sommaire des projets
 
-* link:./agar.ml[Agar.ml] par Yohan & Emile
-* link:./cut-the-rope[Cut the Rope] par Adem & Thomas C.
-* link:./i2pm-gnizamedoc[i2pm gnizamedoc] par Linh Vu
-* link:./fusetim-raymarcher[OCaml RayMarcher] par Timothée B
-* link:./ocaml-rtx[OCaml RTX] par Martin DB
+* Agar.ml par Yohan & Emile
+* Cut the Rope par Adem & Thomas C.
+* i2pm gnizamedoc par Linh Vu
+* OCaml RayMarcher par Timothée B
+* OCaml RTX par Martin DB
 * link:./the-world-hardest-game[The World Hardest Game] par Nicolas S. & Nathan
 
 

@@ -1,6 +1,6 @@
 [submodule "fusetim-raymarcher"]
 	path = fusetim-raymarcher
-	url = git@github.com:fusetim/mp2i-ocaml-raymarcher.git
+	url = https://github.com/fusetim/mp2i-ocaml-raymarcher.git
 [submodule "i2pm-gnizamedoc"]
 	path = i2pm-gnizamedoc
 	url = https://github.com/slivering/i2pm-gnizamedoc.git

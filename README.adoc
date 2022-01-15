@@ -10,9 +10,10 @@ en utilisant pour cela la bibliothèque Graphics de OCaml. Autrement, le projet 
 * Agar.ml par Yohan & Emile
 * Cut the Rope par Adem & Thomas C.
 * link:./celestine-car-race[Epic Car Game goes vroom] (un titre de Nicolas S.) par Célestine
+* link:./flipper[Flipper] par Pierre D.
 * i2pm gnizamedoc par Linh Vu
-* OCaml RayMarcher par Timothée B
-* OCaml RTX par Martin DB
+* OCaml RayMarcher par Timothée B.
+* OCaml RTX par Martin DB.
 * link:./the-world-hardest-game[The World Hardest Game] par Nicolas S. & Nathan
 
 

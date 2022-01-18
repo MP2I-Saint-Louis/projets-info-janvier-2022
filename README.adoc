@@ -8,7 +8,9 @@ en utilisant pour cela la bibliothèque Graphics de OCaml. Autrement, le projet 
 == Sommaire des projets
 
 * Agar.ml par Yohan & Emile
+* link:./bataille-spaciale[Bataille Spatiale] par Leïla
 * Cut the Rope par Adem & Thomas C.
+* link:./doodle-jump[Doodle-Jump] par Maureen
 * link:./celestine-car-race[Epic Car Game goes vroom] (un titre de Nicolas S.) par Célestine
 * link:./flipper[Flipper] par Pierre D.
 * i2pm gnizamedoc par Linh Vu

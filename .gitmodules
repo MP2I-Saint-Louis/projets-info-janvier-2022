@@ -13,3 +13,6 @@
 [submodule "ocaml-rtx"]
 	path = ocaml-rtx
 	url = https://github.com/mdb0/ocaml_rtx
+[submodule "geometry-dash"]
+	path = geometry-dash
+	url = https://github.com/paulau09/GeometryDash

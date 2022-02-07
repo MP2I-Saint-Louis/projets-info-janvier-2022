@@ -11,6 +11,7 @@ en utilisant pour cela la bibliothèque Graphics de OCaml. Autrement, le projet 
 * link:./bataille-spaciale[Bataille Spatiale] par Leïla
 * link:./bullet-hell[Bullet Hell] par Raphaël
 * Caml Dash par Jules et Paul
+* link:./caml-invaders[Caml Invaders] par Mathéo V.
 * Cut the Rope par Adem & Thomas C.
 * link:./doodle-jump[Doodle-Jump] par Maureen
 * link:./celestine-car-race[Epic Car Game goes vroom] (un titre de Nicolas S.) par Célestine
